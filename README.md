@@ -1,6 +1,7 @@
 #  Kodluyoruz ilk repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ![image](https://resmim.net/cdn/2022/09/04/sdr4i.png)
+https://app.patika.dev/kaanguller
 ## Installation
 Öncelikle projeyi clonelayın 
 ```
